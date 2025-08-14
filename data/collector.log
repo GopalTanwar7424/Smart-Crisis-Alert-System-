@@ -1,0 +1,595 @@
+2025-08-11 21:52:24,280 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 21:57:27,962 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:02:30,773 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:07:38,978 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:12:41,681 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:17:43,722 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:22:46,032 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:27:47,990 - ERROR - snscrape collection failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:29:56,299 - INFO - Starting Smart Crisis Data Collector
+2025-08-11 22:29:56,303 - INFO - Collection Cycle #1
+2025-08-11 22:29:56,308 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:29:58,279 - INFO - Added 5 new items. Total: 13
+2025-08-11 22:29:58,280 - INFO - Waiting 300 seconds...
+2025-08-11 22:34:58,286 - INFO - Collection Cycle #2
+2025-08-11 22:34:58,295 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:35:00,150 - INFO - No new unique tweets found
+2025-08-11 22:35:00,150 - INFO - Waiting 300 seconds...
+2025-08-11 22:41:10,283 - INFO - Starting continuous collection (Ctrl+C to stop)
+2025-08-11 22:41:10,284 - INFO - Starting Crisis Data Collector
+2025-08-11 22:41:10,285 - INFO - Loaded 13 existing items
+2025-08-11 22:41:10,286 - INFO - Cycle #1
+2025-08-11 22:41:10,291 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:41:11,209 - INFO - Collected 5 items from USGS
+2025-08-11 22:41:13,374 - INFO - Collected 0 items from Weather
+2025-08-11 22:41:13,375 - INFO - Saved 18 total items
+2025-08-11 22:41:13,376 - INFO - Added 5 new items. Total: 18
+2025-08-11 22:41:13,376 - INFO - Waiting 300 seconds...
+2025-08-11 22:46:13,377 - INFO - Cycle #2
+2025-08-11 22:46:13,379 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:46:14,107 - INFO - Collected 4 items from USGS
+2025-08-11 22:46:14,575 - INFO - Collected 0 items from Weather
+2025-08-11 22:46:14,577 - INFO - Saved 19 total items
+2025-08-11 22:46:14,577 - INFO - Added 1 new items. Total: 19
+2025-08-11 22:46:14,578 - INFO - Waiting 300 seconds...
+2025-08-11 22:51:14,578 - INFO - Cycle #3
+2025-08-11 22:51:14,587 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-11 22:51:15,569 - INFO - Collected 5 items from USGS
+2025-08-11 22:51:15,940 - INFO - Collected 0 items from Weather
+2025-08-11 22:51:15,943 - INFO - Saved 20 total items
+2025-08-11 22:51:15,943 - INFO - Added 1 new items. Total: 20
+2025-08-11 22:51:15,944 - INFO - Waiting 300 seconds...
+2025-08-12 07:39:53,711 - INFO - Cycle #4
+2025-08-12 07:39:53,809 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 07:39:54,836 - INFO - Collected 5 items from USGS
+2025-08-12 07:39:56,579 - INFO - Collected 0 items from Weather
+2025-08-12 07:39:56,587 - INFO - Saved 25 total items
+2025-08-12 07:39:56,588 - INFO - Added 5 new items. Total: 25
+2025-08-12 07:39:56,589 - INFO - Waiting 300 seconds...
+2025-08-12 07:44:56,591 - INFO - Cycle #5
+2025-08-12 07:44:56,599 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 07:44:57,467 - INFO - Collected 5 items from USGS
+2025-08-12 07:44:57,947 - INFO - Collected 0 items from Weather
+2025-08-12 07:44:57,951 - INFO - Saved 26 total items
+2025-08-12 07:44:57,951 - INFO - Added 1 new items. Total: 26
+2025-08-12 07:44:57,951 - INFO - Waiting 300 seconds...
+2025-08-12 07:49:57,952 - INFO - Cycle #6
+2025-08-12 07:49:57,955 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 07:49:59,226 - INFO - Collected 5 items from USGS
+2025-08-12 07:49:59,625 - INFO - Collected 0 items from Weather
+2025-08-12 07:49:59,625 - INFO - No new unique items found
+2025-08-12 07:49:59,626 - INFO - Waiting 300 seconds...
+2025-08-12 07:54:59,626 - INFO - Cycle #7
+2025-08-12 07:54:59,637 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 07:55:00,804 - INFO - Collected 5 items from USGS
+2025-08-12 07:55:01,201 - INFO - Collected 0 items from Weather
+2025-08-12 07:55:01,207 - INFO - Saved 27 total items
+2025-08-12 07:55:01,207 - INFO - Added 1 new items. Total: 27
+2025-08-12 07:55:01,208 - INFO - Waiting 300 seconds...
+2025-08-12 08:00:01,208 - INFO - Cycle #8
+2025-08-12 08:00:01,213 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 08:00:02,330 - INFO - Collected 5 items from USGS
+2025-08-12 08:00:02,768 - INFO - Collected 0 items from Weather
+2025-08-12 08:00:02,773 - INFO - Saved 29 total items
+2025-08-12 08:00:02,773 - INFO - Added 2 new items. Total: 29
+2025-08-12 08:00:02,773 - INFO - Waiting 300 seconds...
+2025-08-12 08:05:02,774 - INFO - Cycle #9
+2025-08-12 08:05:02,777 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 08:05:03,550 - INFO - Collected 5 items from USGS
+2025-08-12 08:05:03,873 - INFO - Collected 0 items from Weather
+2025-08-12 08:05:03,877 - INFO - Saved 30 total items
+2025-08-12 08:05:03,877 - INFO - Added 1 new items. Total: 30
+2025-08-12 08:05:03,877 - INFO - Waiting 300 seconds...
+2025-08-12 08:10:03,878 - INFO - Cycle #10
+2025-08-12 08:10:03,889 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 08:10:04,813 - INFO - Collected 5 items from USGS
+2025-08-12 08:10:05,207 - INFO - Collected 0 items from Weather
+2025-08-12 08:10:05,208 - INFO - No new unique items found
+2025-08-12 08:10:05,208 - INFO - Waiting 300 seconds...
+2025-08-12 08:15:05,209 - INFO - Cycle #11
+2025-08-12 08:15:05,217 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 08:15:05,970 - INFO - Collected 5 items from USGS
+2025-08-12 08:15:06,314 - INFO - Collected 0 items from Weather
+2025-08-12 08:15:06,314 - INFO - No new unique items found
+2025-08-12 08:15:06,314 - INFO - Waiting 300 seconds...
+2025-08-12 11:26:13,649 - INFO - Cycle #12
+2025-08-12 11:26:13,675 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:26:18,313 - INFO - Collected 5 items from USGS
+2025-08-12 11:26:18,912 - INFO - Collected 0 items from Weather
+2025-08-12 11:26:18,923 - INFO - Saved 35 total items
+2025-08-12 11:26:18,923 - INFO - Added 5 new items. Total: 35
+2025-08-12 11:26:18,924 - INFO - Waiting 300 seconds...
+2025-08-12 11:31:18,951 - INFO - Cycle #13
+2025-08-12 11:31:18,980 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:31:20,075 - INFO - Collected 5 items from USGS
+2025-08-12 11:31:20,440 - INFO - Collected 0 items from Weather
+2025-08-12 11:31:20,464 - INFO - No new unique items found
+2025-08-12 11:31:20,469 - INFO - Waiting 300 seconds...
+2025-08-12 11:36:20,471 - INFO - Cycle #14
+2025-08-12 11:36:20,477 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:36:21,331 - INFO - Collected 5 items from USGS
+2025-08-12 11:36:22,539 - INFO - Collected 0 items from Weather
+2025-08-12 11:36:22,568 - INFO - Saved 37 total items
+2025-08-12 11:36:22,569 - INFO - Added 2 new items. Total: 37
+2025-08-12 11:36:22,570 - INFO - Waiting 300 seconds...
+2025-08-12 11:41:22,570 - INFO - Cycle #15
+2025-08-12 11:41:22,574 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:41:23,488 - INFO - Collected 5 items from USGS
+2025-08-12 11:41:23,906 - INFO - Collected 0 items from Weather
+2025-08-12 11:41:23,910 - INFO - Saved 38 total items
+2025-08-12 11:41:23,911 - INFO - Added 1 new items. Total: 38
+2025-08-12 11:41:23,911 - INFO - Waiting 300 seconds...
+2025-08-12 11:46:23,912 - INFO - Cycle #16
+2025-08-12 11:46:23,922 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:46:28,884 - INFO - Collected 5 items from USGS
+2025-08-12 11:46:30,407 - INFO - Collected 0 items from Weather
+2025-08-12 11:46:30,408 - INFO - No new unique items found
+2025-08-12 11:46:30,408 - INFO - Waiting 300 seconds...
+2025-08-12 11:51:30,409 - INFO - Cycle #17
+2025-08-12 11:51:30,413 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:51:31,273 - INFO - Collected 5 items from USGS
+2025-08-12 11:51:31,697 - INFO - Collected 0 items from Weather
+2025-08-12 11:51:31,698 - INFO - No new unique items found
+2025-08-12 11:51:31,698 - INFO - Waiting 300 seconds...
+2025-08-12 11:56:31,699 - INFO - Cycle #18
+2025-08-12 11:56:31,707 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 11:56:32,547 - INFO - Collected 5 items from USGS
+2025-08-12 11:56:32,930 - INFO - Collected 0 items from Weather
+2025-08-12 11:56:32,935 - INFO - Saved 39 total items
+2025-08-12 11:56:32,936 - INFO - Added 1 new items. Total: 39
+2025-08-12 11:56:32,936 - INFO - Waiting 300 seconds...
+2025-08-12 12:01:32,937 - INFO - Cycle #19
+2025-08-12 12:01:32,942 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:01:33,757 - INFO - Collected 5 items from USGS
+2025-08-12 12:01:34,193 - INFO - Collected 0 items from Weather
+2025-08-12 12:01:34,193 - INFO - No new unique items found
+2025-08-12 12:01:34,194 - INFO - Waiting 300 seconds...
+2025-08-12 12:06:34,195 - INFO - Cycle #20
+2025-08-12 12:06:34,198 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:06:34,981 - INFO - Collected 5 items from USGS
+2025-08-12 12:06:35,361 - INFO - Collected 0 items from Weather
+2025-08-12 12:06:35,375 - INFO - Saved 42 total items
+2025-08-12 12:06:35,375 - INFO - Added 3 new items. Total: 42
+2025-08-12 12:06:35,375 - INFO - Waiting 300 seconds...
+2025-08-12 12:11:35,376 - INFO - Cycle #21
+2025-08-12 12:11:35,380 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:11:36,335 - INFO - Collected 5 items from USGS
+2025-08-12 12:11:36,729 - INFO - Collected 0 items from Weather
+2025-08-12 12:11:36,729 - INFO - No new unique items found
+2025-08-12 12:11:36,730 - INFO - Waiting 300 seconds...
+2025-08-12 12:16:36,730 - INFO - Cycle #22
+2025-08-12 12:16:36,734 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:16:37,611 - INFO - Collected 5 items from USGS
+2025-08-12 12:16:38,108 - INFO - Collected 0 items from Weather
+2025-08-12 12:16:38,119 - INFO - Saved 44 total items
+2025-08-12 12:16:38,120 - INFO - Added 2 new items. Total: 44
+2025-08-12 12:16:38,121 - INFO - Waiting 300 seconds...
+2025-08-12 12:21:38,122 - INFO - Cycle #23
+2025-08-12 12:21:38,125 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:21:39,150 - INFO - Collected 5 items from USGS
+2025-08-12 12:21:39,569 - INFO - Collected 0 items from Weather
+2025-08-12 12:21:39,569 - INFO - No new unique items found
+2025-08-12 12:21:39,570 - INFO - Waiting 300 seconds...
+2025-08-12 12:26:39,570 - INFO - Cycle #24
+2025-08-12 12:26:39,574 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:26:40,426 - INFO - Collected 5 items from USGS
+2025-08-12 12:26:40,845 - INFO - Collected 0 items from Weather
+2025-08-12 12:26:40,846 - INFO - No new unique items found
+2025-08-12 12:26:40,846 - INFO - Waiting 300 seconds...
+2025-08-12 12:31:40,847 - INFO - Cycle #25
+2025-08-12 12:31:40,852 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:31:42,173 - INFO - Collected 5 items from USGS
+2025-08-12 12:31:42,767 - INFO - Collected 0 items from Weather
+2025-08-12 12:31:42,767 - INFO - No new unique items found
+2025-08-12 12:31:42,768 - INFO - Waiting 300 seconds...
+2025-08-12 12:36:42,769 - INFO - Cycle #26
+2025-08-12 12:36:42,779 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:36:43,812 - INFO - Collected 5 items from USGS
+2025-08-12 12:36:44,271 - INFO - Collected 0 items from Weather
+2025-08-12 12:36:44,271 - INFO - No new unique items found
+2025-08-12 12:36:44,272 - INFO - Waiting 300 seconds...
+2025-08-12 12:41:44,273 - INFO - Cycle #27
+2025-08-12 12:41:44,276 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:41:45,782 - INFO - Collected 5 items from USGS
+2025-08-12 12:41:46,281 - INFO - Collected 0 items from Weather
+2025-08-12 12:41:46,285 - INFO - Saved 45 total items
+2025-08-12 12:41:46,286 - INFO - Added 1 new items. Total: 45
+2025-08-12 12:41:46,286 - INFO - Waiting 300 seconds...
+2025-08-12 12:46:46,287 - INFO - Cycle #28
+2025-08-12 12:46:46,291 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:46:47,038 - INFO - Collected 5 items from USGS
+2025-08-12 12:46:47,340 - INFO - Collected 0 items from Weather
+2025-08-12 12:46:47,344 - INFO - Saved 46 total items
+2025-08-12 12:46:47,344 - INFO - Added 1 new items. Total: 46
+2025-08-12 12:46:47,345 - INFO - Waiting 300 seconds...
+2025-08-12 12:58:36,351 - INFO - Cycle #29
+2025-08-12 12:58:36,355 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 12:59:06,382 - ERROR - RSS error for USGS: HTTPSConnectionPool(host='earthquake.usgs.gov', port=443): Read timed out. (read timeout=30)
+2025-08-12 12:59:06,803 - ERROR - RSS error for Weather: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-12 12:59:06,804 - WARNING - No tweets collected this cycle
+2025-08-12 12:59:06,805 - INFO - Waiting 300 seconds...
+2025-08-12 13:04:06,829 - INFO - Cycle #30
+2025-08-12 13:04:06,866 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 13:04:18,103 - ERROR - RSS error for USGS: HTTPSConnectionPool(host='earthquake.usgs.gov', port=443): Max retries exceeded with url: /earthquakes/feed/v1.0/summary/all_hour.atom (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CF50AAF110>: Failed to resolve 'earthquake.usgs.gov' ([Errno 11001] getaddrinfo failed)"))
+2025-08-12 13:04:18,125 - ERROR - RSS error for Weather: HTTPSConnectionPool(host='alerts.weather.gov', port=443): Max retries exceeded with url: /cap/wwaatmget.php?x=0 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CF50AAFB10>: Failed to resolve 'alerts.weather.gov' ([Errno 11001] getaddrinfo failed)"))
+2025-08-12 13:04:18,126 - WARNING - No tweets collected this cycle
+2025-08-12 13:04:18,127 - INFO - Waiting 300 seconds...
+2025-08-12 13:09:18,135 - INFO - Cycle #31
+2025-08-12 13:09:18,160 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 13:09:19,039 - INFO - Collected 5 items from USGS
+2025-08-12 13:09:19,819 - INFO - Collected 0 items from Weather
+2025-08-12 13:09:19,829 - INFO - Saved 50 total items
+2025-08-12 13:09:19,830 - INFO - Added 4 new items. Total: 50
+2025-08-12 13:09:19,830 - INFO - Waiting 300 seconds...
+2025-08-12 18:37:08,023 - INFO - Cycle #32
+2025-08-12 18:37:08,041 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 18:37:09,657 - INFO - Collected 5 items from USGS
+2025-08-12 18:37:10,899 - INFO - Collected 0 items from Weather
+2025-08-12 18:37:10,927 - INFO - Saved 55 total items
+2025-08-12 18:37:10,927 - INFO - Added 5 new items. Total: 55
+2025-08-12 18:37:10,928 - INFO - Waiting 300 seconds...
+2025-08-12 21:14:42,557 - INFO - Cycle #33
+2025-08-12 21:14:42,642 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:14:43,399 - INFO - Collected 5 items from USGS
+2025-08-12 21:14:44,895 - INFO - Collected 0 items from Weather
+2025-08-12 21:14:44,928 - INFO - Saved 60 total items
+2025-08-12 21:14:44,928 - INFO - Added 5 new items. Total: 60
+2025-08-12 21:14:44,929 - INFO - Waiting 300 seconds...
+2025-08-12 21:19:44,944 - INFO - Cycle #34
+2025-08-12 21:19:44,970 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:19:46,073 - INFO - Collected 5 items from USGS
+2025-08-12 21:19:46,458 - INFO - Collected 0 items from Weather
+2025-08-12 21:19:46,459 - INFO - No new unique items found
+2025-08-12 21:19:46,459 - INFO - Waiting 300 seconds...
+2025-08-12 21:24:46,466 - INFO - Cycle #35
+2025-08-12 21:24:46,482 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:24:47,244 - INFO - Collected 5 items from USGS
+2025-08-12 21:24:47,624 - INFO - Collected 0 items from Weather
+2025-08-12 21:24:47,636 - INFO - Saved 62 total items
+2025-08-12 21:24:47,637 - INFO - Added 2 new items. Total: 62
+2025-08-12 21:24:47,637 - INFO - Waiting 300 seconds...
+2025-08-12 21:29:47,652 - INFO - Cycle #36
+2025-08-12 21:29:47,680 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:29:48,606 - INFO - Collected 5 items from USGS
+2025-08-12 21:29:48,937 - INFO - Collected 0 items from Weather
+2025-08-12 21:29:48,937 - INFO - No new unique items found
+2025-08-12 21:29:48,938 - INFO - Waiting 300 seconds...
+2025-08-12 21:34:49,019 - INFO - Cycle #37
+2025-08-12 21:34:49,114 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:34:50,184 - INFO - Collected 5 items from USGS
+2025-08-12 21:34:50,538 - INFO - Collected 0 items from Weather
+2025-08-12 21:34:50,539 - INFO - No new unique items found
+2025-08-12 21:34:50,540 - INFO - Waiting 300 seconds...
+2025-08-12 21:39:50,549 - INFO - Cycle #38
+2025-08-12 21:39:50,570 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:39:51,233 - INFO - Collected 5 items from USGS
+2025-08-12 21:39:51,523 - INFO - Collected 0 items from Weather
+2025-08-12 21:39:51,523 - INFO - No new unique items found
+2025-08-12 21:39:51,524 - INFO - Waiting 300 seconds...
+2025-08-12 21:44:51,525 - INFO - Cycle #39
+2025-08-12 21:44:51,530 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:44:53,519 - INFO - Collected 5 items from USGS
+2025-08-12 21:44:53,834 - INFO - Collected 0 items from Weather
+2025-08-12 21:44:53,835 - INFO - No new unique items found
+2025-08-12 21:44:53,835 - INFO - Waiting 300 seconds...
+2025-08-12 21:49:53,842 - INFO - Cycle #40
+2025-08-12 21:49:53,862 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:49:54,517 - INFO - Collected 5 items from USGS
+2025-08-12 21:49:54,879 - INFO - Collected 0 items from Weather
+2025-08-12 21:49:54,880 - INFO - No new unique items found
+2025-08-12 21:49:54,880 - INFO - Waiting 300 seconds...
+2025-08-12 21:54:54,881 - INFO - Cycle #41
+2025-08-12 21:54:54,894 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-12 21:54:55,509 - INFO - Collected 5 items from USGS
+2025-08-12 21:54:55,807 - INFO - Collected 0 items from Weather
+2025-08-12 21:54:55,808 - INFO - No new unique items found
+2025-08-12 21:54:55,809 - INFO - Waiting 300 seconds...
+2025-08-13 00:59:53,294 - INFO - Cycle #42
+2025-08-13 00:59:53,395 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 00:59:54,288 - INFO - Collected 5 items from USGS
+2025-08-13 00:59:54,812 - INFO - Collected 0 items from Weather
+2025-08-13 00:59:54,826 - INFO - Saved 67 total items
+2025-08-13 00:59:54,827 - INFO - Added 5 new items. Total: 67
+2025-08-13 00:59:54,827 - INFO - Waiting 300 seconds...
+2025-08-13 01:04:54,900 - INFO - Cycle #43
+2025-08-13 01:04:54,973 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 01:04:55,560 - INFO - Collected 5 items from USGS
+2025-08-13 01:04:55,897 - INFO - Collected 0 items from Weather
+2025-08-13 01:04:55,904 - INFO - Saved 68 total items
+2025-08-13 01:04:55,905 - INFO - Added 1 new items. Total: 68
+2025-08-13 01:04:55,905 - INFO - Waiting 300 seconds...
+2025-08-13 10:09:51,931 - INFO - Cycle #44
+2025-08-13 10:09:52,010 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:10:13,870 - ERROR - RSS error for USGS: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-13 10:10:13,891 - ERROR - RSS error for Weather: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-13 10:10:13,891 - WARNING - No tweets collected this cycle
+2025-08-13 10:10:13,892 - INFO - Waiting 300 seconds...
+2025-08-13 10:15:13,908 - INFO - Cycle #45
+2025-08-13 10:15:13,939 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:15:14,853 - INFO - Collected 5 items from USGS
+2025-08-13 10:15:15,501 - INFO - Collected 0 items from Weather
+2025-08-13 10:15:15,524 - INFO - Saved 73 total items
+2025-08-13 10:15:15,525 - INFO - Added 5 new items. Total: 73
+2025-08-13 10:15:15,525 - INFO - Waiting 300 seconds...
+2025-08-13 10:20:15,595 - INFO - Cycle #46
+2025-08-13 10:20:15,669 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:20:16,420 - INFO - Collected 5 items from USGS
+2025-08-13 10:20:16,704 - INFO - Collected 0 items from Weather
+2025-08-13 10:20:16,710 - INFO - Saved 74 total items
+2025-08-13 10:20:16,711 - INFO - Added 1 new items. Total: 74
+2025-08-13 10:20:16,711 - INFO - Waiting 300 seconds...
+2025-08-13 10:25:16,730 - INFO - Cycle #47
+2025-08-13 10:25:16,761 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:25:17,405 - INFO - Collected 5 items from USGS
+2025-08-13 10:25:17,690 - INFO - Collected 0 items from Weather
+2025-08-13 10:25:17,695 - INFO - Saved 75 total items
+2025-08-13 10:25:17,696 - INFO - Added 1 new items. Total: 75
+2025-08-13 10:25:17,696 - INFO - Waiting 300 seconds...
+2025-08-13 10:30:17,717 - INFO - Cycle #48
+2025-08-13 10:30:17,744 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:30:19,047 - INFO - Collected 5 items from USGS
+2025-08-13 10:30:19,353 - INFO - Collected 0 items from Weather
+2025-08-13 10:30:19,355 - INFO - No new unique items found
+2025-08-13 10:30:19,356 - INFO - Waiting 300 seconds...
+2025-08-13 10:35:19,376 - INFO - Cycle #49
+2025-08-13 10:35:19,401 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:35:20,066 - INFO - Collected 5 items from USGS
+2025-08-13 10:35:20,401 - INFO - Collected 0 items from Weather
+2025-08-13 10:35:20,401 - INFO - No new unique items found
+2025-08-13 10:35:20,401 - INFO - Waiting 300 seconds...
+2025-08-13 10:40:20,448 - INFO - Cycle #50
+2025-08-13 10:40:20,578 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:40:24,589 - INFO - Collected 5 items from USGS
+2025-08-13 10:40:24,947 - INFO - Collected 0 items from Weather
+2025-08-13 10:40:24,964 - INFO - Saved 77 total items
+2025-08-13 10:40:24,964 - INFO - Added 2 new items. Total: 77
+2025-08-13 10:40:24,965 - INFO - Waiting 300 seconds...
+2025-08-13 10:45:25,049 - INFO - Cycle #51
+2025-08-13 10:45:25,138 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:45:25,962 - INFO - Collected 5 items from USGS
+2025-08-13 10:45:26,315 - INFO - Collected 0 items from Weather
+2025-08-13 10:45:26,316 - INFO - No new unique items found
+2025-08-13 10:45:26,316 - INFO - Waiting 300 seconds...
+2025-08-13 10:50:26,340 - INFO - Cycle #52
+2025-08-13 10:50:26,431 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:50:28,734 - INFO - Collected 5 items from USGS
+2025-08-13 10:50:29,032 - INFO - Collected 0 items from Weather
+2025-08-13 10:50:29,032 - INFO - No new unique items found
+2025-08-13 10:50:29,032 - INFO - Waiting 300 seconds...
+2025-08-13 10:55:29,050 - INFO - Cycle #53
+2025-08-13 10:55:29,090 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 10:55:29,996 - INFO - Collected 5 items from USGS
+2025-08-13 10:55:30,608 - INFO - Collected 0 items from Weather
+2025-08-13 10:55:30,608 - INFO - No new unique items found
+2025-08-13 10:55:30,608 - INFO - Waiting 300 seconds...
+2025-08-13 11:00:30,655 - INFO - Cycle #54
+2025-08-13 11:00:30,697 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 11:00:31,948 - INFO - Collected 5 items from USGS
+2025-08-13 11:00:32,383 - INFO - Collected 0 items from Weather
+2025-08-13 11:00:32,385 - INFO - No new unique items found
+2025-08-13 11:00:32,385 - INFO - Waiting 300 seconds...
+2025-08-13 11:05:32,395 - INFO - Cycle #55
+2025-08-13 11:05:32,430 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 11:05:33,073 - INFO - Collected 5 items from USGS
+2025-08-13 11:05:33,527 - INFO - Collected 0 items from Weather
+2025-08-13 11:05:33,558 - INFO - Saved 78 total items
+2025-08-13 11:05:33,559 - INFO - Added 1 new items. Total: 78
+2025-08-13 11:05:33,560 - INFO - Waiting 300 seconds...
+2025-08-13 11:14:23,579 - INFO - Cycle #56
+2025-08-13 11:14:23,665 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 11:14:45,556 - ERROR - RSS error for USGS: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-13 11:14:46,932 - INFO - Collected 0 items from Weather
+2025-08-13 11:14:46,933 - WARNING - No tweets collected this cycle
+2025-08-13 11:14:46,934 - INFO - Waiting 300 seconds...
+2025-08-13 11:19:46,948 - INFO - Cycle #57
+2025-08-13 11:19:46,988 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 11:19:47,563 - INFO - Collected 5 items from USGS
+2025-08-13 11:19:47,905 - INFO - Collected 0 items from Weather
+2025-08-13 11:19:47,925 - INFO - Saved 81 total items
+2025-08-13 11:19:47,926 - INFO - Added 3 new items. Total: 81
+2025-08-13 11:19:47,927 - INFO - Waiting 300 seconds...
+2025-08-13 11:24:47,991 - INFO - Cycle #58
+2025-08-13 11:24:48,080 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 11:24:49,005 - INFO - Collected 5 items from USGS
+2025-08-13 11:24:49,378 - INFO - Collected 0 items from Weather
+2025-08-13 11:24:49,379 - INFO - No new unique items found
+2025-08-13 11:24:49,379 - INFO - Waiting 300 seconds...
+2025-08-13 11:29:49,403 - INFO - Cycle #59
+2025-08-13 11:29:49,480 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 11:29:50,480 - INFO - Collected 5 items from USGS
+2025-08-13 11:29:50,849 - INFO - Collected 0 items from Weather
+2025-08-13 11:29:50,890 - INFO - Saved 82 total items
+2025-08-13 11:29:50,891 - INFO - Added 1 new items. Total: 82
+2025-08-13 11:29:50,892 - INFO - Waiting 300 seconds...
+2025-08-13 12:54:36,361 - INFO - Cycle #60
+2025-08-13 12:54:36,408 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 12:54:40,291 - INFO - Collected 5 items from USGS
+2025-08-13 12:54:40,456 - ERROR - RSS error for Weather: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-13 12:54:40,620 - INFO - Saved 87 total items
+2025-08-13 12:54:40,620 - INFO - Added 5 new items. Total: 87
+2025-08-13 12:54:40,621 - INFO - Waiting 300 seconds...
+2025-08-13 12:59:40,645 - INFO - Cycle #61
+2025-08-13 12:59:40,686 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 12:59:41,254 - INFO - Collected 5 items from USGS
+2025-08-13 12:59:42,150 - INFO - Collected 0 items from Weather
+2025-08-13 12:59:42,152 - INFO - No new unique items found
+2025-08-13 12:59:42,154 - INFO - Waiting 300 seconds...
+2025-08-13 13:04:42,207 - INFO - Cycle #62
+2025-08-13 13:04:42,280 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:04:42,918 - INFO - Collected 5 items from USGS
+2025-08-13 13:04:43,226 - INFO - Collected 0 items from Weather
+2025-08-13 13:04:43,226 - INFO - No new unique items found
+2025-08-13 13:04:43,227 - INFO - Waiting 300 seconds...
+2025-08-13 13:09:43,285 - INFO - Cycle #63
+2025-08-13 13:09:43,377 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:09:43,997 - INFO - Collected 5 items from USGS
+2025-08-13 13:09:44,331 - INFO - Collected 0 items from Weather
+2025-08-13 13:09:44,332 - INFO - No new unique items found
+2025-08-13 13:09:44,332 - INFO - Waiting 300 seconds...
+2025-08-13 13:14:44,379 - INFO - Cycle #64
+2025-08-13 13:14:44,483 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:14:45,149 - INFO - Collected 5 items from USGS
+2025-08-13 13:14:45,430 - INFO - Collected 0 items from Weather
+2025-08-13 13:14:45,468 - INFO - Saved 88 total items
+2025-08-13 13:14:45,468 - INFO - Added 1 new items. Total: 88
+2025-08-13 13:14:45,468 - INFO - Waiting 300 seconds...
+2025-08-13 13:19:45,484 - INFO - Cycle #65
+2025-08-13 13:19:45,539 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:19:46,164 - INFO - Collected 5 items from USGS
+2025-08-13 13:19:46,467 - INFO - Collected 0 items from Weather
+2025-08-13 13:19:46,477 - INFO - Saved 91 total items
+2025-08-13 13:19:46,477 - INFO - Added 3 new items. Total: 91
+2025-08-13 13:19:46,477 - INFO - Waiting 300 seconds...
+2025-08-13 13:24:46,523 - INFO - Cycle #66
+2025-08-13 13:24:46,567 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:24:47,014 - INFO - Collected 5 items from USGS
+2025-08-13 13:24:47,282 - INFO - Collected 0 items from Weather
+2025-08-13 13:24:47,283 - INFO - No new unique items found
+2025-08-13 13:24:47,283 - INFO - Waiting 300 seconds...
+2025-08-13 13:29:47,297 - INFO - Cycle #67
+2025-08-13 13:29:47,332 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:29:47,889 - INFO - Collected 5 items from USGS
+2025-08-13 13:29:48,213 - INFO - Collected 0 items from Weather
+2025-08-13 13:29:48,226 - INFO - Saved 93 total items
+2025-08-13 13:29:48,226 - INFO - Added 2 new items. Total: 93
+2025-08-13 13:29:48,226 - INFO - Waiting 300 seconds...
+2025-08-13 13:34:48,244 - INFO - Cycle #68
+2025-08-13 13:34:48,278 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:34:48,836 - INFO - Collected 5 items from USGS
+2025-08-13 13:34:49,137 - INFO - Collected 0 items from Weather
+2025-08-13 13:34:49,137 - INFO - No new unique items found
+2025-08-13 13:34:49,137 - INFO - Waiting 300 seconds...
+2025-08-13 13:39:49,137 - INFO - Cycle #69
+2025-08-13 13:39:49,144 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:39:49,620 - INFO - Collected 5 items from USGS
+2025-08-13 13:39:49,894 - INFO - Collected 0 items from Weather
+2025-08-13 13:39:49,894 - INFO - No new unique items found
+2025-08-13 13:39:49,895 - INFO - Waiting 300 seconds...
+2025-08-13 13:44:49,940 - INFO - Cycle #70
+2025-08-13 13:44:50,014 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:44:50,996 - INFO - Collected 5 items from USGS
+2025-08-13 13:44:51,305 - INFO - Collected 0 items from Weather
+2025-08-13 13:44:51,305 - INFO - No new unique items found
+2025-08-13 13:44:51,306 - INFO - Waiting 300 seconds...
+2025-08-13 13:49:51,371 - INFO - Cycle #71
+2025-08-13 13:49:51,506 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:49:52,109 - INFO - Collected 5 items from USGS
+2025-08-13 13:49:52,438 - INFO - Collected 0 items from Weather
+2025-08-13 13:49:52,438 - INFO - No new unique items found
+2025-08-13 13:49:52,439 - INFO - Waiting 300 seconds...
+2025-08-13 13:54:52,502 - INFO - Cycle #72
+2025-08-13 13:54:52,586 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:54:53,287 - INFO - Collected 5 items from USGS
+2025-08-13 13:54:53,694 - INFO - Collected 0 items from Weather
+2025-08-13 13:54:53,710 - INFO - Saved 94 total items
+2025-08-13 13:54:53,710 - INFO - Added 1 new items. Total: 94
+2025-08-13 13:54:53,710 - INFO - Waiting 300 seconds...
+2025-08-13 13:59:53,730 - INFO - Cycle #73
+2025-08-13 13:59:53,764 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 13:59:54,273 - INFO - Collected 5 items from USGS
+2025-08-13 13:59:54,558 - INFO - Collected 0 items from Weather
+2025-08-13 13:59:54,559 - INFO - No new unique items found
+2025-08-13 13:59:54,559 - INFO - Waiting 300 seconds...
+2025-08-13 14:04:54,573 - INFO - Cycle #74
+2025-08-13 14:04:54,607 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:04:55,176 - INFO - Collected 5 items from USGS
+2025-08-13 14:04:55,463 - INFO - Collected 0 items from Weather
+2025-08-13 14:04:55,464 - INFO - No new unique items found
+2025-08-13 14:04:55,464 - INFO - Waiting 300 seconds...
+2025-08-13 14:09:55,475 - INFO - Cycle #75
+2025-08-13 14:09:55,510 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:09:55,953 - INFO - Collected 5 items from USGS
+2025-08-13 14:09:56,295 - INFO - Collected 0 items from Weather
+2025-08-13 14:09:56,295 - INFO - No new unique items found
+2025-08-13 14:09:56,296 - INFO - Waiting 300 seconds...
+2025-08-13 14:14:56,311 - INFO - Cycle #76
+2025-08-13 14:14:56,347 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:14:56,870 - INFO - Collected 3 items from USGS
+2025-08-13 14:14:57,153 - INFO - Collected 0 items from Weather
+2025-08-13 14:14:57,154 - INFO - No new unique items found
+2025-08-13 14:14:57,154 - INFO - Waiting 300 seconds...
+2025-08-13 14:19:57,154 - INFO - Cycle #77
+2025-08-13 14:19:57,165 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:19:57,594 - INFO - Collected 2 items from USGS
+2025-08-13 14:19:57,885 - INFO - Collected 0 items from Weather
+2025-08-13 14:19:57,885 - INFO - No new unique items found
+2025-08-13 14:19:57,885 - INFO - Waiting 300 seconds...
+2025-08-13 14:24:57,898 - INFO - Cycle #78
+2025-08-13 14:24:57,930 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:24:58,412 - INFO - Collected 2 items from USGS
+2025-08-13 14:24:58,741 - INFO - Collected 0 items from Weather
+2025-08-13 14:24:58,777 - INFO - Saved 95 total items
+2025-08-13 14:24:58,778 - INFO - Added 1 new items. Total: 95
+2025-08-13 14:24:58,778 - INFO - Waiting 300 seconds...
+2025-08-13 14:29:58,781 - INFO - Cycle #79
+2025-08-13 14:29:58,791 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:29:59,195 - INFO - Collected 2 items from USGS
+2025-08-13 14:29:59,489 - INFO - Collected 0 items from Weather
+2025-08-13 14:29:59,490 - INFO - No new unique items found
+2025-08-13 14:29:59,490 - INFO - Waiting 300 seconds...
+2025-08-13 14:34:59,559 - INFO - Cycle #80
+2025-08-13 14:34:59,648 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:35:00,338 - INFO - Collected 3 items from USGS
+2025-08-13 14:35:00,671 - INFO - Collected 0 items from Weather
+2025-08-13 14:35:00,715 - INFO - Saved 96 total items
+2025-08-13 14:35:00,716 - INFO - Added 1 new items. Total: 96
+2025-08-13 14:35:00,716 - INFO - Waiting 300 seconds...
+2025-08-13 14:40:00,743 - INFO - Cycle #81
+2025-08-13 14:40:00,804 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 14:40:01,365 - INFO - Collected 3 items from USGS
+2025-08-13 14:40:01,696 - INFO - Collected 0 items from Weather
+2025-08-13 14:40:01,707 - INFO - Saved 97 total items
+2025-08-13 14:40:01,708 - INFO - Added 1 new items. Total: 97
+2025-08-13 14:40:01,708 - INFO - Waiting 300 seconds...
+2025-08-13 19:40:50,501 - INFO - Cycle #82
+2025-08-13 19:41:14,298 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 19:41:31,476 - INFO - Collected 5 items from USGS
+2025-08-13 19:41:33,623 - INFO - Collected 0 items from Weather
+2025-08-13 19:41:34,104 - INFO - Saved 102 total items
+2025-08-13 19:41:34,118 - INFO - Added 5 new items. Total: 102
+2025-08-13 19:41:34,118 - INFO - Waiting 300 seconds...
+2025-08-13 19:46:34,312 - INFO - Cycle #83
+2025-08-13 19:46:34,586 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 19:46:36,932 - INFO - Collected 5 items from USGS
+2025-08-13 19:46:37,315 - INFO - Collected 0 items from Weather
+2025-08-13 19:46:37,316 - INFO - No new unique items found
+2025-08-13 19:46:37,317 - INFO - Waiting 300 seconds...
+2025-08-13 19:51:37,404 - INFO - Cycle #84
+2025-08-13 19:51:37,515 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 19:51:39,748 - INFO - Collected 5 items from USGS
+2025-08-13 19:51:40,174 - INFO - Collected 0 items from Weather
+2025-08-13 19:51:40,176 - INFO - No new unique items found
+2025-08-13 19:51:40,176 - INFO - Waiting 300 seconds...
+2025-08-13 19:56:40,200 - INFO - Cycle #85
+2025-08-13 19:56:40,251 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 19:56:41,134 - INFO - Collected 3 items from USGS
+2025-08-13 19:56:41,455 - INFO - Collected 0 items from Weather
+2025-08-13 19:56:41,455 - INFO - No new unique items found
+2025-08-13 19:56:41,456 - INFO - Waiting 300 seconds...
+2025-08-13 20:01:41,553 - INFO - Cycle #86
+2025-08-13 20:01:41,661 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 20:01:42,658 - INFO - Collected 4 items from USGS
+2025-08-13 20:01:43,123 - INFO - Collected 0 items from Weather
+2025-08-13 20:01:43,153 - INFO - Saved 103 total items
+2025-08-13 20:01:43,153 - INFO - Added 1 new items. Total: 103
+2025-08-13 20:01:43,154 - INFO - Waiting 300 seconds...
+2025-08-13 20:06:43,178 - INFO - Cycle #87
+2025-08-13 20:06:43,216 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 20:06:44,308 - INFO - Collected 5 items from USGS
+2025-08-13 20:06:44,895 - INFO - Collected 0 items from Weather
+2025-08-13 20:06:44,907 - INFO - Saved 104 total items
+2025-08-13 20:06:44,907 - INFO - Added 1 new items. Total: 104
+2025-08-13 20:06:44,909 - INFO - Waiting 300 seconds...
+2025-08-13 20:11:44,919 - INFO - Cycle #88
+2025-08-13 20:11:44,952 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 20:11:54,999 - INFO - Collected 5 items from USGS
+2025-08-13 20:11:55,478 - INFO - Collected 0 items from Weather
+2025-08-13 20:11:55,480 - INFO - No new unique items found
+2025-08-13 20:11:55,481 - INFO - Waiting 300 seconds...
+2025-08-13 20:16:55,500 - INFO - Cycle #89
+2025-08-13 20:16:55,545 - ERROR - snscrape failed: 'FileFinder' object has no attribute 'find_module'
+2025-08-13 20:17:04,999 - INFO - Collected 5 items from USGS
+2025-08-13 20:17:06,232 - INFO - Collected 0 items from Weather
+2025-08-13 20:17:06,249 - INFO - Saved 106 total items
+2025-08-13 20:17:06,249 - INFO - Added 2 new items. Total: 106
+2025-08-13 20:17:06,250 - INFO - Waiting 300 seconds...

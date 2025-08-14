@@ -1,0 +1,850 @@
+[
+  {
+    "id": 5656316564,
+    "created_at": "2025-08-11 21:52:25",
+    "user": "official_alert",
+    "text": "M 2.2 - 23 km ESE of Naalehu, Hawaii: <dl><dt>Time</dt><dd>2025-08-11 16:15:01 UTC</dd><dd>2025-08-11 16:15:01 UTC at epicenter</dd><dt>Location</dt><dd>19.015&deg;N 155.360&deg;W</dd><dt>Depth</dt><dd>14.71 km (9.14 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74749762",
+    "source": "rss"
+  },
+  {
+    "id": 8783369994,
+    "created_at": "2025-08-11 21:52:25",
+    "user": "official_alert",
+    "text": "M 0.8 - 50 km WNW of Tyonek, Alaska: <dl><dt>Time</dt><dd>2025-08-11 16:11:52 UTC</dd><dd>2025-08-11 16:11:52 UTC at epicenter</dd><dt>Location</dt><dd>61.163&deg;N 152.049&deg;W</dd><dt>Depth</dt><dd>103.30 km (64.19 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025a92fsr3",
+    "source": "rss"
+  },
+  {
+    "id": 3458541711,
+    "created_at": "2025-08-11 21:52:25",
+    "user": "official_alert",
+    "text": "M 0.7 - 5 km WNW of Cobb, CA: <dl><dt>Time</dt><dd>2025-08-11 16:08:38 UTC</dd><dd>2025-08-11 16:08:38 UTC at epicenter</dd><dt>Location</dt><dd>38.835&deg;N 122.784&deg;W</dd><dt>Depth</dt><dd>1.70 km (1.06 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75221852",
+    "source": "rss"
+  },
+  {
+    "id": 1313282961,
+    "created_at": "2025-08-11 21:52:25",
+    "user": "official_alert",
+    "text": "M 1.3 - 27 km WSW of Snyder, Texas: <dl><dt>Time</dt><dd>2025-08-11 16:05:25 UTC</dd><dd>2025-08-11 16:05:25 UTC at epicenter</dd><dt>Location</dt><dd>32.608&deg;N 101.184&deg;W</dd><dt>Depth</dt><dd>5.00 km (3.11 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025pstfht",
+    "source": "rss"
+  },
+  {
+    "id": 7979713890,
+    "created_at": "2025-08-11 21:52:25",
+    "user": "official_alert",
+    "text": "M 0.6 - 18 km W of Searles Valley, CA: <dl><dt>Time</dt><dd>2025-08-11 15:50:57 UTC</dd><dd>2025-08-11 15:50:57 UTC at epicenter</dd><dt>Location</dt><dd>35.775&deg;N 117.602&deg;W</dd><dt>Depth</dt><dd>6.43 km (4.00 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258480",
+    "source": "rss"
+  },
+  {
+    "id": 7937861394,
+    "created_at": "2025-08-11 22:07:40",
+    "user": "official_alert",
+    "text": "M 1.5 - 60 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-11 16:30:56 UTC</dd><dd>2025-08-11 16:30:56 UTC at epicenter</dd><dt>Location</dt><dd>31.634&deg;N 104.471&deg;W</dd><dt>Depth</dt><dd>3.51 km (2.18 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025psubhk",
+    "source": "rss"
+  },
+  {
+    "id": 6326505219,
+    "created_at": "2025-08-11 22:12:42",
+    "user": "official_alert",
+    "text": "M 2.1 - 4 km E of Avenal, CA: <dl><dt>Time</dt><dd>2025-08-11 16:37:29 UTC</dd><dd>2025-08-11 16:37:29 UTC at epicenter</dd><dt>Location</dt><dd>36.015&deg;N 120.086&deg;W</dd><dt>Depth</dt><dd>4.44 km (2.76 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75221857",
+    "source": "rss"
+  },
+  {
+    "id": 2632448909,
+    "created_at": "2025-08-11 22:27:48",
+    "user": "official_alert",
+    "text": "M 1.5 - 6 km SW of Castaic, CA: <dl><dt>Time</dt><dd>2025-08-11 16:43:30 UTC</dd><dd>2025-08-11 16:43:30 UTC at epicenter</dd><dt>Location</dt><dd>34.449&deg;N 118.665&deg;W</dd><dt>Depth</dt><dd>7.96 km (4.95 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258528",
+    "source": "rss"
+  },
+  {
+    "id": 7128135786,
+    "created_at": "2025-08-11 22:29:57",
+    "user": "official_alert",
+    "text": "M 1.5 - 6 km SW of Castaic, CA: <dl><dt>Time</dt><dd>2025-08-11 16:43:30 UTC</dd><dd>2025-08-11 16:43:30 UTC at epicenter</dd><dt>Location</dt><dd>34.449&deg;N 118.665&deg;W</dd><dt>Depth</dt><dd>7.96 km (4.95 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258528",
+    "source": "rss"
+  },
+  {
+    "id": 3285080662,
+    "created_at": "2025-08-11 22:29:57",
+    "user": "official_alert",
+    "text": "M 2.1 - 4 km E of Avenal, CA: <dl><dt>Time</dt><dd>2025-08-11 16:37:29 UTC</dd><dd>2025-08-11 16:37:29 UTC at epicenter</dd><dt>Location</dt><dd>36.015&deg;N 120.086&deg;W</dd><dt>Depth</dt><dd>4.44 km (2.76 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75221857",
+    "source": "rss"
+  },
+  {
+    "id": 7070807919,
+    "created_at": "2025-08-11 22:29:57",
+    "user": "official_alert",
+    "text": "M 1.5 - 60 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-11 16:30:56 UTC</dd><dd>2025-08-11 16:30:56 UTC at epicenter</dd><dt>Location</dt><dd>31.634&deg;N 104.471&deg;W</dd><dt>Depth</dt><dd>3.51 km (2.18 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025psubhk",
+    "source": "rss"
+  },
+  {
+    "id": 3246500515,
+    "created_at": "2025-08-11 22:29:57",
+    "user": "official_alert",
+    "text": "M 2.2 - 23 km ESE of Naalehu, Hawaii: <dl><dt>Time</dt><dd>2025-08-11 16:15:01 UTC</dd><dd>2025-08-11 16:15:01 UTC at epicenter</dd><dt>Location</dt><dd>19.015&deg;N 155.360&deg;W</dd><dt>Depth</dt><dd>14.71 km (9.14 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74749762",
+    "source": "rss"
+  },
+  {
+    "id": 2690961697,
+    "created_at": "2025-08-11 22:29:57",
+    "user": "official_alert",
+    "text": "M 0.8 - 50 km WNW of Tyonek, Alaska: <dl><dt>Time</dt><dd>2025-08-11 16:11:52 UTC</dd><dd>2025-08-11 16:11:52 UTC at epicenter</dd><dt>Location</dt><dd>61.163&deg;N 152.049&deg;W</dd><dt>Depth</dt><dd>103.30 km (64.19 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025a92fsr3",
+    "source": "rss"
+  },
+  {
+    "id": "7295527322",
+    "created_at": "2025-08-11 22:41:11",
+    "user": "official_usgs",
+    "text": "M 1.5 - 6 km SW of Castaic, CA: <dl><dt>Time</dt><dd>2025-08-11 16:43:30 UTC</dd><dd>2025-08-11 16:43:30 UTC at epicenter</dd><dt>Location</dt><dd>34.449&deg;N 118.665&deg;W</dd><dt>Depth</dt><dd>7.96 km (4.95 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258528",
+    "source": "rss"
+  },
+  {
+    "id": "1703820456",
+    "created_at": "2025-08-11 22:41:11",
+    "user": "official_usgs",
+    "text": "M 2.1 - 4 km E of Avenal, CA: <dl><dt>Time</dt><dd>2025-08-11 16:37:29 UTC</dd><dd>2025-08-11 16:37:29 UTC at epicenter</dd><dt>Location</dt><dd>36.015&deg;N 120.086&deg;W</dd><dt>Depth</dt><dd>4.44 km (2.76 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75221857",
+    "source": "rss"
+  },
+  {
+    "id": "7975874736",
+    "created_at": "2025-08-11 22:41:11",
+    "user": "official_usgs",
+    "text": "M 1.6 - 60 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-11 16:30:56 UTC</dd><dd>2025-08-11 16:30:56 UTC at epicenter</dd><dt>Location</dt><dd>31.637&deg;N 104.472&deg;W</dd><dt>Depth</dt><dd>3.99 km (2.48 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025psubhk",
+    "source": "rss"
+  },
+  {
+    "id": "2252178958",
+    "created_at": "2025-08-11 22:41:11",
+    "user": "official_usgs",
+    "text": "M 2.2 - 23 km ESE of Naalehu, Hawaii: <dl><dt>Time</dt><dd>2025-08-11 16:15:01 UTC</dd><dd>2025-08-11 16:15:01 UTC at epicenter</dd><dt>Location</dt><dd>19.015&deg;N 155.360&deg;W</dd><dt>Depth</dt><dd>14.71 km (9.14 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74749762",
+    "source": "rss"
+  },
+  {
+    "id": "5325462397",
+    "created_at": "2025-08-11 22:41:11",
+    "user": "official_usgs",
+    "text": "M 0.8 - 50 km WNW of Tyonek, Alaska: <dl><dt>Time</dt><dd>2025-08-11 16:11:52 UTC</dd><dd>2025-08-11 16:11:52 UTC at epicenter</dd><dt>Location</dt><dd>61.163&deg;N 152.049&deg;W</dd><dt>Depth</dt><dd>103.30 km (64.19 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025a92fsr3",
+    "source": "rss"
+  },
+  {
+    "id": "5540894750",
+    "created_at": "2025-08-11 22:46:14",
+    "user": "official_usgs",
+    "text": "M 1.9 - 45 km W of Anchor Point, Alaska: <dl><dt>Time</dt><dd>2025-08-11 17:12:20 UTC</dd><dd>2025-08-11 17:12:20 UTC at epicenter</dd><dt>Location</dt><dd>59.812&deg;N 152.630&deg;W</dd><dt>Depth</dt><dd>72.20 km (44.86 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025a931dke",
+    "source": "rss"
+  },
+  {
+    "id": "7820815847",
+    "created_at": "2025-08-11 22:51:15",
+    "user": "official_usgs",
+    "text": "M 1.4 - 16 km ESE of Seven Trees, CA: <dl><dt>Time</dt><dd>2025-08-11 17:14:55 UTC</dd><dd>2025-08-11 17:14:55 UTC at epicenter</dd><dt>Location</dt><dd>37.282&deg;N 121.661&deg;W</dd><dt>Depth</dt><dd>0.38 km (0.24 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75221887",
+    "source": "rss"
+  },
+  {
+    "id": "549941348",
+    "created_at": "2025-08-12 07:39:54",
+    "user": "official_usgs",
+    "text": "M 0.3 - 7 km WNW of Cobb, CA: <dl><dt>Time</dt><dd>2025-08-12 02:04:52 UTC</dd><dd>2025-08-12 02:04:52 UTC at epicenter</dd><dt>Location</dt><dd>38.837&deg;N 122.803&deg;W</dd><dt>Depth</dt><dd>2.09 km (1.30 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222067",
+    "source": "rss"
+  },
+  {
+    "id": "9958956786",
+    "created_at": "2025-08-12 07:39:54",
+    "user": "official_usgs",
+    "text": "M 2.6 - 6 km S of Guánica, Puerto Rico: <dl><dt>Time</dt><dd>2025-08-12 01:56:14 UTC</dd><dd>2025-08-12 01:56:14 UTC at epicenter</dd><dt>Location</dt><dd>17.918&deg;N 66.918&deg;W</dd><dt>Depth</dt><dd>9.97 km (6.20 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71492533",
+    "source": "rss"
+  },
+  {
+    "id": "4336399432",
+    "created_at": "2025-08-12 07:39:54",
+    "user": "official_usgs",
+    "text": "M 1.2 - 59 km W of Anchor Point, Alaska: <dl><dt>Time</dt><dd>2025-08-12 01:51:02 UTC</dd><dd>2025-08-12 01:51:02 UTC at epicenter</dd><dt>Location</dt><dd>59.849&deg;N 152.882&deg;W</dd><dt>Depth</dt><dd>90.80 km (56.42 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aaha3ys",
+    "source": "rss"
+  },
+  {
+    "id": "1096934275",
+    "created_at": "2025-08-12 07:39:54",
+    "user": "official_usgs",
+    "text": "M 2.8 - 4 km NE of Minco, Oklahoma: <p class=\"quicksummary\"><a class=\"mmi-III\" href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ok2025pror#dyfi\" title=\"Did You Feel It? maximum reported intensity (5 reports)\">DYFI? - <strong clas...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025pror",
+    "source": "rss"
+  },
+  {
+    "id": "156859651",
+    "created_at": "2025-08-12 07:39:54",
+    "user": "official_usgs",
+    "text": "M 4.7 - 67 km ESE of Petropavlovsk-Kamchatsky, Russia: <dl><dt>Time</dt><dd>2025-08-12 01:42:15 UTC</dd><dd>2025-08-12 01:42:15 UTC at epicenter</dd><dt>Location</dt><dd>52.903&deg;N 159.602&deg;E</dd><dt>Depth</dt><dd>69.42 km (43.13 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r008",
+    "source": "rss"
+  },
+  {
+    "id": "7864878799",
+    "created_at": "2025-08-12 07:44:57",
+    "user": "official_usgs",
+    "text": "M 1.1 - 42 km WSW of Cantwell, Alaska: <dl><dt>Time</dt><dd>2025-08-12 02:10:06 UTC</dd><dd>2025-08-12 02:10:06 UTC at epicenter</dd><dt>Location</dt><dd>63.284&deg;N 149.760&deg;W</dd><dt>Depth</dt><dd>91.50 km (56.86 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aahmrho",
+    "source": "rss"
+  },
+  {
+    "id": "840901085",
+    "created_at": "2025-08-12 07:55:00",
+    "user": "official_usgs",
+    "text": "M 2.7 - 1 km ESE of Minco, Oklahoma: <dl><dt>Time</dt><dd>2025-08-12 02:19:14 UTC</dd><dd>2025-08-12 02:19:14 UTC at epicenter</dd><dt>Location</dt><dd>35.309&deg;N 97.931&deg;W</dd><dt>Depth</dt><dd>1.08 km (0.67 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025prpu",
+    "source": "rss"
+  },
+  {
+    "id": "3003950978",
+    "created_at": "2025-08-12 08:00:02",
+    "user": "official_usgs",
+    "text": "M 5.2 - 42 km ESE of Gorontalo, Indonesia: <dl><dt>Time</dt><dd>2025-08-12 02:14:09 UTC</dd><dd>2025-08-12 02:14:09 UTC at epicenter</dd><dt>Location</dt><dd>0.357&deg;N 123.395&deg;E</dd><dt>Depth</dt><dd>268.74 km (166.99 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r00b",
+    "source": "rss"
+  },
+  {
+    "id": "6237307328",
+    "created_at": "2025-08-12 08:00:02",
+    "user": "official_usgs",
+    "text": "M 4.9 - 107 km E of Ozernovskiy, Russia: <dl><dt>Time</dt><dd>2025-08-12 02:07:15 UTC</dd><dd>2025-08-12 02:07:15 UTC at epicenter</dd><dt>Location</dt><dd>51.382&deg;N 158.036&deg;E</dd><dt>Depth</dt><dd>58.11 km (36.11 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r00a",
+    "source": "rss"
+  },
+  {
+    "id": "445657295",
+    "created_at": "2025-08-12 08:05:03",
+    "user": "official_usgs",
+    "text": "M 4.3 - 294 km ENE of Lospalos, Timor Leste: <dl><dt>Time</dt><dd>2025-08-12 02:12:22 UTC</dd><dd>2025-08-12 02:12:22 UTC at epicenter</dd><dt>Location</dt><dd>7.114&deg;S 129.263&deg;E</dd><dt>Depth</dt><dd>150.34 km (93.42 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r00c",
+    "source": "rss"
+  },
+  {
+    "id": "5468556833",
+    "created_at": "2025-08-12 11:26:18",
+    "user": "official_usgs",
+    "text": "M 0.4 - 5 km S of Coso Junction, CA: <dl><dt>Time</dt><dd>2025-08-12 05:51:27 UTC</dd><dd>2025-08-12 05:51:27 UTC at epicenter</dd><dt>Location</dt><dd>35.998&deg;N 117.956&deg;W</dd><dt>Depth</dt><dd>4.83 km (3.00 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258952",
+    "source": "rss"
+  },
+  {
+    "id": "6994746650",
+    "created_at": "2025-08-12 11:26:18",
+    "user": "official_usgs",
+    "text": "M 1.1 - 3 km NNE of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-12 05:48:51 UTC</dd><dd>2025-08-12 05:48:51 UTC at epicenter</dd><dt>Location</dt><dd>38.800&deg;N 122.752&deg;W</dd><dt>Depth</dt><dd>1.99 km (1.24 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222137",
+    "source": "rss"
+  },
+  {
+    "id": "383601268",
+    "created_at": "2025-08-12 11:26:18",
+    "user": "official_usgs",
+    "text": "M 1.9 - 13 km S of Volcano, Hawaii: <dl><dt>Time</dt><dd>2025-08-12 05:26:22 UTC</dd><dd>2025-08-12 05:26:22 UTC at epicenter</dd><dt>Location</dt><dd>19.319&deg;N 155.221&deg;W</dd><dt>Depth</dt><dd>3.90 km (2.42 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74750497",
+    "source": "rss"
+  },
+  {
+    "id": "1642591030",
+    "created_at": "2025-08-12 11:26:18",
+    "user": "official_usgs",
+    "text": "M 0.5 - 7 km WNW of Cobb, CA: <dl><dt>Time</dt><dd>2025-08-12 05:24:38 UTC</dd><dd>2025-08-12 05:24:38 UTC at epicenter</dd><dt>Location</dt><dd>38.838&deg;N 122.798&deg;W</dd><dt>Depth</dt><dd>1.90 km (1.18 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222132",
+    "source": "rss"
+  },
+  {
+    "id": "5030609275",
+    "created_at": "2025-08-12 11:26:18",
+    "user": "official_usgs",
+    "text": "M 1.1 - 5 km S of Coso Junction, CA: <dl><dt>Time</dt><dd>2025-08-12 05:11:52 UTC</dd><dd>2025-08-12 05:11:52 UTC at epicenter</dd><dt>Location</dt><dd>35.999&deg;N 117.956&deg;W</dd><dt>Depth</dt><dd>4.48 km (2.78 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258944",
+    "source": "rss"
+  },
+  {
+    "id": "8340690784",
+    "created_at": "2025-08-12 11:36:21",
+    "user": "official_usgs",
+    "text": "M 0.3 - 10 km NW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-12 06:03:18 UTC</dd><dd>2025-08-12 06:03:18 UTC at epicenter</dd><dt>Location</dt><dd>38.827&deg;N 122.851&deg;W</dd><dt>Depth</dt><dd>1.80 km (1.12 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222142",
+    "source": "rss"
+  },
+  {
+    "id": "3500147295",
+    "created_at": "2025-08-12 11:36:21",
+    "user": "official_usgs",
+    "text": "M 0.8 - 7 km SSW of Idyllwild, CA: <dl><dt>Time</dt><dd>2025-08-12 06:01:13 UTC</dd><dd>2025-08-12 06:01:13 UTC at epicenter</dd><dt>Location</dt><dd>33.683&deg;N 116.760&deg;W</dd><dt>Depth</dt><dd>16.85 km (10.47 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258960",
+    "source": "rss"
+  },
+  {
+    "id": "1040245422",
+    "created_at": "2025-08-12 11:41:23",
+    "user": "official_usgs",
+    "text": "M 1.4 - 3 km W of Aguanga, CA: <dl><dt>Time</dt><dd>2025-08-12 06:08:39 UTC</dd><dd>2025-08-12 06:08:39 UTC at epicenter</dd><dt>Location</dt><dd>33.446&deg;N 116.897&deg;W</dd><dt>Depth</dt><dd>6.52 km (4.05 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258968",
+    "source": "rss"
+  },
+  {
+    "id": "5032275157",
+    "created_at": "2025-08-12 11:56:32",
+    "user": "official_usgs",
+    "text": "M 2.7 - 3 km NNE of Prattville, CA: <dl><dt>Time</dt><dd>2025-08-12 06:21:15 UTC</dd><dd>2025-08-12 06:21:15 UTC at epicenter</dd><dt>Location</dt><dd>40.231&deg;N 121.148&deg;W</dd><dt>Depth</dt><dd>-1.00 km (-0.62 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222147",
+    "source": "rss"
+  },
+  {
+    "id": "7164174526",
+    "created_at": "2025-08-12 12:06:34",
+    "user": "official_usgs",
+    "text": "M 1.6 - 4 km SSE of Nanwalek, Alaska: <dl><dt>Time</dt><dd>2025-08-12 06:33:10 UTC</dd><dd>2025-08-12 06:33:10 UTC at epicenter</dd><dt>Location</dt><dd>59.317&deg;N 151.888&deg;W</dd><dt>Depth</dt><dd>75.40 km (46.85 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aak5foy",
+    "source": "rss"
+  },
+  {
+    "id": "8651983128",
+    "created_at": "2025-08-12 12:06:34",
+    "user": "official_usgs",
+    "text": "M 2.2 - 56 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-12 06:31:03 UTC</dd><dd>2025-08-12 06:31:03 UTC at epicenter</dd><dt>Location</dt><dd>31.662&deg;N 104.383&deg;W</dd><dt>Depth</dt><dd>4.20 km (2.61 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ptvxgc",
+    "source": "rss"
+  },
+  {
+    "id": "3776407811",
+    "created_at": "2025-08-12 12:06:34",
+    "user": "official_usgs",
+    "text": "M 0.5 - 18 km N of Ridgecrest, CA: <dl><dt>Time</dt><dd>2025-08-12 06:30:51 UTC</dd><dd>2025-08-12 06:30:51 UTC at epicenter</dd><dt>Location</dt><dd>35.781&deg;N 117.672&deg;W</dd><dt>Depth</dt><dd>6.79 km (4.22 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258976",
+    "source": "rss"
+  },
+  {
+    "id": "480837000",
+    "created_at": "2025-08-12 12:16:37",
+    "user": "official_usgs",
+    "text": "M 1.5 - 57 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-12 06:41:47 UTC</dd><dd>2025-08-12 06:41:47 UTC at epicenter</dd><dt>Location</dt><dd>31.655&deg;N 104.379&deg;W</dd><dt>Depth</dt><dd>4.87 km (3.02 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ptwgmj",
+    "source": "rss"
+  },
+  {
+    "id": "1091701281",
+    "created_at": "2025-08-12 12:16:37",
+    "user": "official_usgs",
+    "text": "M 3.0 - 63 km NW of San Antonio, Puerto Rico: <dl><dt>Time</dt><dd>2025-08-12 06:22:48 UTC</dd><dd>2025-08-12 06:22:48 UTC at epicenter</dd><dt>Location</dt><dd>18.950&deg;N 67.465&deg;W</dd><dt>Depth</dt><dd>11.35 km (7.05 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71492543",
+    "source": "rss"
+  },
+  {
+    "id": "5261654866",
+    "created_at": "2025-08-12 12:41:45",
+    "user": "official_usgs",
+    "text": "M 3.5 - 55 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-12 06:58:52 UTC</dd><dd>2025-08-12 06:58:52 UTC at epicenter</dd><dt>Location</dt><dd>31.671&deg;N 104.368&deg;W</dd><dt>Depth</dt><dd>6.10 km (3.79 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ptwvfe",
+    "source": "rss"
+  },
+  {
+    "id": "7066330906",
+    "created_at": "2025-08-12 12:46:47",
+    "user": "official_usgs",
+    "text": "M 0.7 - 6 km NNW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-12 07:10:41 UTC</dd><dd>2025-08-12 07:10:41 UTC at epicenter</dd><dt>Location</dt><dd>38.824&deg;N 122.798&deg;W</dd><dt>Depth</dt><dd>2.18 km (1.35 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222152",
+    "source": "rss"
+  },
+  {
+    "id": "6059155932",
+    "created_at": "2025-08-12 13:09:19",
+    "user": "official_usgs",
+    "text": "M 2.1 - 57 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-12 07:32:30 UTC</dd><dd>2025-08-12 07:32:30 UTC at epicenter</dd><dt>Location</dt><dd>31.653&deg;N 104.374&deg;W</dd><dt>Depth</dt><dd>4.00 km (2.49 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ptxyew",
+    "source": "rss"
+  },
+  {
+    "id": "3858615008",
+    "created_at": "2025-08-12 13:09:19",
+    "user": "official_usgs",
+    "text": "M 1.3 - 36 km SSW of Denali National Park, Alaska: <dl><dt>Time</dt><dd>2025-08-12 07:30:02 UTC</dd><dd>2025-08-12 07:30:02 UTC at epicenter</dd><dt>Location</dt><dd>63.235&deg;N 152.004&deg;W</dd><dt>Depth</dt><dd>7.00 km (4.35 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aakq7hk",
+    "source": "rss"
+  },
+  {
+    "id": "8539614984",
+    "created_at": "2025-08-12 13:09:19",
+    "user": "official_usgs",
+    "text": "M 1.6 - 55 km S of Whites City, New Mexico: <dl><dt>Time</dt><dd>2025-08-12 07:18:39 UTC</dd><dd>2025-08-12 07:18:39 UTC at epicenter</dd><dt>Location</dt><dd>31.672&deg;N 104.368&deg;W</dd><dt>Depth</dt><dd>6.10 km (3.79 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ptxmgz",
+    "source": "rss"
+  },
+  {
+    "id": "9518187645",
+    "created_at": "2025-08-12 13:09:19",
+    "user": "official_usgs",
+    "text": "M 0.6 - 12 km SE of Anza, CA: <dl><dt>Time</dt><dd>2025-08-12 07:16:58 UTC</dd><dd>2025-08-12 07:16:58 UTC at epicenter</dd><dt>Location</dt><dd>33.478&deg;N 116.587&deg;W</dd><dt>Depth</dt><dd>10.62 km (6.60 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41258984",
+    "source": "rss"
+  },
+  {
+    "id": "3725574483",
+    "created_at": "2025-08-12 18:37:09",
+    "user": "official_usgs",
+    "text": "M 1.4 - 9 km NNE of Beaumont, CA: <dl><dt>Time</dt><dd>2025-08-12 12:55:54 UTC</dd><dd>2025-08-12 12:55:54 UTC at epicenter</dd><dt>Location</dt><dd>34.007&deg;N 116.950&deg;W</dd><dt>Depth</dt><dd>8.32 km (5.17 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259128",
+    "source": "rss"
+  },
+  {
+    "id": "3671421485",
+    "created_at": "2025-08-12 18:37:09",
+    "user": "official_usgs",
+    "text": "M 1.0 - 25 km WSW of Salamatof, Alaska: <dl><dt>Time</dt><dd>2025-08-12 12:47:38 UTC</dd><dd>2025-08-12 12:47:38 UTC at epicenter</dd><dt>Location</dt><dd>60.531&deg;N 151.754&deg;W</dd><dt>Depth</dt><dd>64.50 km (40.08 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aant3ja",
+    "source": "rss"
+  },
+  {
+    "id": "1916247020",
+    "created_at": "2025-08-12 18:37:09",
+    "user": "official_usgs",
+    "text": "M 2.1 - 3 km NE of Prattville, CA: <dl><dt>Time</dt><dd>2025-08-12 12:41:34 UTC</dd><dd>2025-08-12 12:41:34 UTC at epicenter</dd><dt>Location</dt><dd>40.229&deg;N 121.142&deg;W</dd><dt>Depth</dt><dd>-0.72 km (-0.45 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222247",
+    "source": "rss"
+  },
+  {
+    "id": "7491819402",
+    "created_at": "2025-08-12 18:37:09",
+    "user": "official_usgs",
+    "text": "M 2.2 - 23 km NNW of Toyah, Texas: <dl><dt>Time</dt><dd>2025-08-12 12:33:35 UTC</dd><dd>2025-08-12 12:33:35 UTC at epicenter</dd><dt>Location</dt><dd>31.512&deg;N 103.871&deg;W</dd><dt>Depth</dt><dd>7.31 km (4.54 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025puhxrp",
+    "source": "rss"
+  },
+  {
+    "id": "6047681610",
+    "created_at": "2025-08-12 18:37:09",
+    "user": "official_usgs",
+    "text": "M 0.4 - 57 km W of Anchor Point, Alaska: <dl><dt>Time</dt><dd>2025-08-12 12:17:02 UTC</dd><dd>2025-08-12 12:17:02 UTC at epicenter</dd><dt>Location</dt><dd>59.840&deg;N 152.844&deg;W</dd><dt>Depth</dt><dd>105.80 km (65.74 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aanml7p",
+    "source": "rss"
+  },
+  {
+    "id": "4200688798",
+    "created_at": "2025-08-12 21:14:43",
+    "user": "official_usgs",
+    "text": "M 1.8 - 54 km W of Mentone, Texas: <dl><dt>Time</dt><dd>2025-08-12 15:40:01 UTC</dd><dd>2025-08-12 15:40:01 UTC at epicenter</dd><dt>Location</dt><dd>31.708&deg;N 104.177&deg;W</dd><dt>Depth</dt><dd>4.13 km (2.57 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025puocic",
+    "source": "rss"
+  },
+  {
+    "id": "6879646259",
+    "created_at": "2025-08-12 21:14:43",
+    "user": "official_usgs",
+    "text": "M 1.1 - 19 km ESE of Little Lake, CA: <dl><dt>Time</dt><dd>2025-08-12 15:37:02 UTC</dd><dd>2025-08-12 15:37:02 UTC at epicenter</dd><dt>Location</dt><dd>35.897&deg;N 117.698&deg;W</dd><dt>Depth</dt><dd>3.50 km (2.17 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259208",
+    "source": "rss"
+  },
+  {
+    "id": "985326935",
+    "created_at": "2025-08-12 21:14:43",
+    "user": "official_usgs",
+    "text": "M 1.6 - 114 km SE of Chenega, Alaska: <dl><dt>Time</dt><dd>2025-08-12 15:34:30 UTC</dd><dd>2025-08-12 15:34:30 UTC at epicenter</dd><dt>Location</dt><dd>59.419&deg;N 146.424&deg;W</dd><dt>Depth</dt><dd>13.20 km (8.20 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aapilf6",
+    "source": "rss"
+  },
+  {
+    "id": "8394501258",
+    "created_at": "2025-08-12 21:14:43",
+    "user": "official_usgs",
+    "text": "M 0.7 - 40 km NNE of Indian Springs, Nevada: <dl><dt>Time</dt><dd>2025-08-12 15:30:16 UTC</dd><dd>2025-08-12 15:30:16 UTC at epicenter</dd><dt>Location</dt><dd>36.900&deg;N 115.480&deg;W</dd><dt>Depth</dt><dd>1.60 km (0.99 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00902488",
+    "source": "rss"
+  },
+  {
+    "id": "3386590060",
+    "created_at": "2025-08-12 21:14:43",
+    "user": "official_usgs",
+    "text": "M 1.8 - 36 km SSE of Nelchina, Alaska: <dl><dt>Time</dt><dd>2025-08-12 15:26:08 UTC</dd><dd>2025-08-12 15:26:08 UTC at epicenter</dd><dt>Location</dt><dd>61.683&deg;N 146.566&deg;W</dd><dt>Depth</dt><dd>33.00 km (20.51 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aapgtxv",
+    "source": "rss"
+  },
+  {
+    "id": "1234494184",
+    "created_at": "2025-08-12 21:24:47",
+    "user": "official_usgs",
+    "text": "M 0.9 - 1 km SW of Anderson Springs, CA: <dl><dt>Time</dt><dd>2025-08-12 15:48:30 UTC</dd><dd>2025-08-12 15:48:30 UTC at epicenter</dd><dt>Location</dt><dd>38.766&deg;N 122.700&deg;W</dd><dt>Depth</dt><dd>1.63 km (1.01 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222317",
+    "source": "rss"
+  },
+  {
+    "id": "9184921694",
+    "created_at": "2025-08-12 21:24:47",
+    "user": "official_usgs",
+    "text": "M 1.3 - 1 km SW of Anderson Springs, CA: <dl><dt>Time</dt><dd>2025-08-12 15:47:33 UTC</dd><dd>2025-08-12 15:47:33 UTC at epicenter</dd><dt>Location</dt><dd>38.768&deg;N 122.701&deg;W</dd><dt>Depth</dt><dd>2.15 km (1.34 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222312",
+    "source": "rss"
+  },
+  {
+    "id": "1450362917",
+    "created_at": "2025-08-13 00:59:54",
+    "user": "official_usgs",
+    "text": "M 0.7 - 2 km ENE of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-12 19:16:47 UTC</dd><dd>2025-08-12 19:16:47 UTC at epicenter</dd><dt>Location</dt><dd>38.787&deg;N 122.743&deg;W</dd><dt>Depth</dt><dd>1.65 km (1.03 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222382",
+    "source": "rss"
+  },
+  {
+    "id": "2962129111",
+    "created_at": "2025-08-13 00:59:54",
+    "user": "official_usgs",
+    "text": "M 1.8 - 29 km ESE of Avalon, CA: <dl><dt>Time</dt><dd>2025-08-12 18:53:40 UTC</dd><dd>2025-08-12 18:53:40 UTC at epicenter</dd><dt>Location</dt><dd>33.244&deg;N 118.035&deg;W</dd><dt>Depth</dt><dd>12.55 km (7.80 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259352",
+    "source": "rss"
+  },
+  {
+    "id": "4900492471",
+    "created_at": "2025-08-13 00:59:54",
+    "user": "official_usgs",
+    "text": "M 0.9 - 6 km NW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-12 18:39:37 UTC</dd><dd>2025-08-12 18:39:37 UTC at epicenter</dd><dt>Location</dt><dd>38.803&deg;N 122.814&deg;W</dd><dt>Depth</dt><dd>2.89 km (1.80 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222362",
+    "source": "rss"
+  },
+  {
+    "id": "1756405362",
+    "created_at": "2025-08-13 00:59:54",
+    "user": "official_usgs",
+    "text": "M 1.6 - 66 km NNE of Petersville, Alaska: <dl><dt>Time</dt><dd>2025-08-12 18:39:06 UTC</dd><dd>2025-08-12 18:39:06 UTC at epicenter</dd><dt>Location</dt><dd>63.077&deg;N 150.479&deg;W</dd><dt>Depth</dt><dd>109.90 km (68.29 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aarbwyf",
+    "source": "rss"
+  },
+  {
+    "id": "7540058982",
+    "created_at": "2025-08-13 00:59:54",
+    "user": "official_usgs",
+    "text": "M 1.5 - 44 km SSW of Denali National Park, Alaska: <dl><dt>Time</dt><dd>2025-08-12 18:38:20 UTC</dd><dd>2025-08-12 18:38:20 UTC at epicenter</dd><dt>Location</dt><dd>63.174&deg;N 152.059&deg;W</dd><dt>Depth</dt><dd>9.40 km (5.84 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025aarbqb0",
+    "source": "rss"
+  },
+  {
+    "id": "5957843568",
+    "created_at": "2025-08-13 01:04:55",
+    "user": "official_usgs",
+    "text": "M 1.2 - 7 km NW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-12 19:28:28 UTC</dd><dd>2025-08-12 19:28:28 UTC at epicenter</dd><dt>Location</dt><dd>38.820&deg;N 122.823&deg;W</dd><dt>Depth</dt><dd>2.23 km (1.39 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222387",
+    "source": "rss"
+  },
+  {
+    "id": "5564301956",
+    "created_at": "2025-08-13 10:15:14",
+    "user": "official_usgs",
+    "text": "M 1.2 - 61 km SE of Cantwell, Alaska: <dl><dt>Time</dt><dd>2025-08-13 04:35:02 UTC</dd><dd>2025-08-13 04:35:02 UTC at epicenter</dd><dt>Location</dt><dd>62.960&deg;N 148.190&deg;W</dd><dt>Depth</dt><dd>15.20 km (9.44 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025ac6ibss",
+    "source": "rss"
+  },
+  {
+    "id": "2378744885",
+    "created_at": "2025-08-13 10:15:14",
+    "user": "official_usgs",
+    "text": "M 1.1 - 14 km SW of Searles Valley, CA: <dl><dt>Time</dt><dd>2025-08-13 04:32:47 UTC</dd><dd>2025-08-13 04:32:47 UTC at epicenter</dd><dt>Location</dt><dd>35.691&deg;N 117.530&deg;W</dd><dt>Depth</dt><dd>7.51 km (4.67 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259672",
+    "source": "rss"
+  },
+  {
+    "id": "7016339781",
+    "created_at": "2025-08-13 10:15:14",
+    "user": "official_usgs",
+    "text": "M 1.1 - 4 km SE of Topaz Lake, Nevada: <dl><dt>Time</dt><dd>2025-08-13 04:28:00 UTC</dd><dd>2025-08-13 04:28:00 UTC at epicenter</dd><dt>Location</dt><dd>38.671&deg;N 119.499&deg;W</dd><dt>Depth</dt><dd>8.80 km (5.47 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00902524",
+    "source": "rss"
+  },
+  {
+    "id": "8447417328",
+    "created_at": "2025-08-13 10:15:14",
+    "user": "official_usgs",
+    "text": "M 1.6 - 58 km N of Rachel, Nevada: <dl><dt>Time</dt><dd>2025-08-13 04:21:26 UTC</dd><dd>2025-08-13 04:21:26 UTC at epicenter</dd><dt>Location</dt><dd>38.168&deg;N 115.844&deg;W</dd><dt>Depth</dt><dd>10.90 km (6.77 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00902523",
+    "source": "rss"
+  },
+  {
+    "id": "140672547",
+    "created_at": "2025-08-13 10:15:14",
+    "user": "official_usgs",
+    "text": "M 0.9 - 30 km SSE of Minto, Alaska: <dl><dt>Time</dt><dd>2025-08-13 04:06:20 UTC</dd><dd>2025-08-13 04:06:20 UTC at epicenter</dd><dt>Location</dt><dd>64.895&deg;N 149.112&deg;W</dd><dt>Depth</dt><dd>18.60 km (11.56 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025ac6c5dn",
+    "source": "rss"
+  },
+  {
+    "id": "3388071833",
+    "created_at": "2025-08-13 10:20:16",
+    "user": "official_usgs",
+    "text": "M 1.2 - 1 km E of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-13 04:44:42 UTC</dd><dd>2025-08-13 04:44:42 UTC at epicenter</dd><dt>Location</dt><dd>38.778&deg;N 122.746&deg;W</dd><dt>Depth</dt><dd>2.21 km (1.37 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222522",
+    "source": "rss"
+  },
+  {
+    "id": "6204615960",
+    "created_at": "2025-08-13 10:25:17",
+    "user": "official_usgs",
+    "text": "M 1.7 - 22 km E of Navarro Head, CA: <dl><dt>Time</dt><dd>2025-08-13 04:50:45 UTC</dd><dd>2025-08-13 04:50:45 UTC at epicenter</dd><dt>Location</dt><dd>39.263&deg;N 123.527&deg;W</dd><dt>Depth</dt><dd>5.72 km (3.55 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222527",
+    "source": "rss"
+  },
+  {
+    "id": "3638934761",
+    "created_at": "2025-08-13 10:40:24",
+    "user": "official_usgs",
+    "text": "M 0.8 - 7 km NW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-13 05:05:27 UTC</dd><dd>2025-08-13 05:05:27 UTC at epicenter</dd><dt>Location</dt><dd>38.809&deg;N 122.822&deg;W</dd><dt>Depth</dt><dd>2.98 km (1.85 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222542",
+    "source": "rss"
+  },
+  {
+    "id": "7110204023",
+    "created_at": "2025-08-13 10:40:24",
+    "user": "official_usgs",
+    "text": "M 1.2 - 50 km N of Valdez, Alaska: <dl><dt>Time</dt><dd>2025-08-13 05:03:02 UTC</dd><dd>2025-08-13 05:03:02 UTC at epicenter</dd><dt>Location</dt><dd>61.581&deg;N 146.301&deg;W</dd><dt>Depth</dt><dd>29.80 km (18.52 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025ac6wwh8",
+    "source": "rss"
+  },
+  {
+    "id": "3262055872",
+    "created_at": "2025-08-13 11:05:33",
+    "user": "official_usgs",
+    "text": "M 2.4 - 43 km NW of Toyah, Texas: <dl><dt>Time</dt><dd>2025-08-13 05:28:07 UTC</dd><dd>2025-08-13 05:28:07 UTC at epicenter</dd><dt>Location</dt><dd>31.537&deg;N 104.176&deg;W</dd><dt>Depth</dt><dd>3.76 km (2.34 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025pvpnxr",
+    "source": "rss"
+  },
+  {
+    "id": "9094239201",
+    "created_at": "2025-08-13 11:19:47",
+    "user": "official_usgs",
+    "text": "M 0.8 - 7 km WNW of Cobb, CA: <dl><dt>Time</dt><dd>2025-08-13 05:43:19 UTC</dd><dd>2025-08-13 05:43:19 UTC at epicenter</dd><dt>Location</dt><dd>38.835&deg;N 122.801&deg;W</dd><dt>Depth</dt><dd>2.13 km (1.32 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222557",
+    "source": "rss"
+  },
+  {
+    "id": "647780354",
+    "created_at": "2025-08-13 11:19:47",
+    "user": "official_usgs",
+    "text": "M 1.4 - 18 km NNE of Four Mile Road, Alaska: <dl><dt>Time</dt><dd>2025-08-13 05:42:51 UTC</dd><dd>2025-08-13 05:42:51 UTC at epicenter</dd><dt>Location</dt><dd>64.756&deg;N 148.958&deg;W</dd><dt>Depth</dt><dd>5.90 km (3.67 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025ac75d6z",
+    "source": "rss"
+  },
+  {
+    "id": "4154491619",
+    "created_at": "2025-08-13 11:19:47",
+    "user": "official_usgs",
+    "text": "M 2.4 - 6 km W of Fuig, Puerto Rico: <dl><dt>Time</dt><dd>2025-08-13 05:07:03 UTC</dd><dd>2025-08-13 05:07:03 UTC at epicenter</dd><dt>Location</dt><dd>17.984&deg;N 66.973&deg;W</dd><dt>Depth</dt><dd>8.30 km (5.16 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71492638",
+    "source": "rss"
+  },
+  {
+    "id": "8591092856",
+    "created_at": "2025-08-13 11:29:50",
+    "user": "official_usgs",
+    "text": "M 2.3 - 5 km SSW of Pāhala, Hawaii: <dl><dt>Time</dt><dd>2025-08-13 05:52:29 UTC</dd><dd>2025-08-13 05:52:29 UTC at epicenter</dd><dt>Location</dt><dd>19.156&deg;N 155.501&deg;W</dd><dt>Depth</dt><dd>32.81 km (20.39 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74751487",
+    "source": "rss"
+  },
+  {
+    "id": "303002583",
+    "created_at": "2025-08-13 12:54:40",
+    "user": "official_usgs",
+    "text": "M 1.2 - 5 km WSW of San Francisco Zoo, CA: <dl><dt>Time</dt><dd>2025-08-13 07:22:49 UTC</dd><dd>2025-08-13 07:22:49 UTC at epicenter</dd><dt>Location</dt><dd>37.707&deg;N 122.549&deg;W</dd><dt>Depth</dt><dd>6.62 km (4.11 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222587",
+    "source": "rss"
+  },
+  {
+    "id": "8459411724",
+    "created_at": "2025-08-13 12:54:40",
+    "user": "official_usgs",
+    "text": "M 1.3 - 16 km NNE of Yerington, Nevada: <dl><dt>Time</dt><dd>2025-08-13 07:21:52 UTC</dd><dd>2025-08-13 07:21:52 UTC at epicenter</dd><dt>Location</dt><dd>39.132&deg;N 119.107&deg;W</dd><dt>Depth</dt><dd>5.50 km (3.42 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00902537",
+    "source": "rss"
+  },
+  {
+    "id": "2183036736",
+    "created_at": "2025-08-13 12:54:40",
+    "user": "official_usgs",
+    "text": "M 1.2 - 2 km SSE of Coleville, California: <dl><dt>Time</dt><dd>2025-08-13 07:16:18 UTC</dd><dd>2025-08-13 07:16:18 UTC at epicenter</dd><dt>Location</dt><dd>38.550&deg;N 119.497&deg;W</dd><dt>Depth</dt><dd>4.70 km (2.92 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00902534",
+    "source": "rss"
+  },
+  {
+    "id": "2896933955",
+    "created_at": "2025-08-13 12:54:40",
+    "user": "official_usgs",
+    "text": "M 1.4 - 6 km NNE of Fontana, CA: <p class=\"quicksummary\"><a class=\"mmi-I\" href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ci41259720#dyfi\" title=\"Did You Feel It? maximum reported intensity (1 reports)\">DYFI? - <strong class=...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259720",
+    "source": "rss"
+  },
+  {
+    "id": "3696746804",
+    "created_at": "2025-08-13 12:54:40",
+    "user": "official_usgs",
+    "text": "M 2.6 - 1 km NW of La Mirada, CA: <p class=\"quicksummary\"><a class=\"mmi-V\" href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ci41259712#dyfi\" title=\"Did You Feel It? maximum reported intensity (69 reports)\">DYFI? - <strong class...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259712",
+    "source": "rss"
+  },
+  {
+    "id": "5465938287",
+    "created_at": "2025-08-13 13:14:45",
+    "user": "official_usgs",
+    "text": "M 1.0 - 1 km SE of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-13 07:38:14 UTC</dd><dd>2025-08-13 07:38:14 UTC at epicenter</dd><dt>Location</dt><dd>38.772&deg;N 122.744&deg;W</dd><dt>Depth</dt><dd>1.27 km (0.79 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222592",
+    "source": "rss"
+  },
+  {
+    "id": "7775662891",
+    "created_at": "2025-08-13 13:19:46",
+    "user": "official_usgs",
+    "text": "M 1.1 - 11 km SSE of Lucerne Valley, CA: <dl><dt>Time</dt><dd>2025-08-13 07:45:01 UTC</dd><dd>2025-08-13 07:45:01 UTC at epicenter</dd><dt>Location</dt><dd>34.359&deg;N 116.899&deg;W</dd><dt>Depth</dt><dd>1.42 km (0.88 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259736",
+    "source": "rss"
+  },
+  {
+    "id": "4319231092",
+    "created_at": "2025-08-13 13:19:46",
+    "user": "official_usgs",
+    "text": "M -0.4 - 33 km W of Indian Springs, Nevada: <dl><dt>Time</dt><dd>2025-08-13 07:42:08 UTC</dd><dd>2025-08-13 07:42:08 UTC at epicenter</dd><dt>Location</dt><dd>36.617&deg;N 116.045&deg;W</dd><dt>Depth</dt><dd>10.00 km (6.21 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00902539",
+    "source": "rss"
+  },
+  {
+    "id": "4395278985",
+    "created_at": "2025-08-13 13:19:46",
+    "user": "official_usgs",
+    "text": "M 0.9 - 2 km S of Mentone, CA: <dl><dt>Time</dt><dd>2025-08-13 07:41:58 UTC</dd><dd>2025-08-13 07:41:58 UTC at epicenter</dd><dt>Location</dt><dd>34.057&deg;N 117.135&deg;W</dd><dt>Depth</dt><dd>9.62 km (5.98 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259728",
+    "source": "rss"
+  },
+  {
+    "id": "3795422753",
+    "created_at": "2025-08-13 13:29:47",
+    "user": "official_usgs",
+    "text": "M 1.1 - 12 km ESE of Ninilchik, Alaska: <dl><dt>Time</dt><dd>2025-08-13 07:54:06 UTC</dd><dd>2025-08-13 07:54:06 UTC at epicenter</dd><dt>Location</dt><dd>59.991&deg;N 151.472&deg;W</dd><dt>Depth</dt><dd>46.00 km (28.58 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025ac8epja",
+    "source": "rss"
+  },
+  {
+    "id": "8958039893",
+    "created_at": "2025-08-13 13:29:47",
+    "user": "official_usgs",
+    "text": "M 4.6 - 239 km ESE of Severo-Kuril’sk, Russia: <dl><dt>Time</dt><dd>2025-08-13 07:38:28 UTC</dd><dd>2025-08-13 07:38:28 UTC at epicenter</dd><dt>Location</dt><dd>49.950&deg;N 159.299&deg;E</dd><dt>Depth</dt><dd>10.00 km (6.21 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r0aa",
+    "source": "rss"
+  },
+  {
+    "id": "5357445597",
+    "created_at": "2025-08-13 13:54:53",
+    "user": "official_usgs",
+    "text": "M 5.0 - 168 km W of Tual, Indonesia: <dl><dt>Time</dt><dd>2025-08-13 08:07:12 UTC</dd><dd>2025-08-13 08:07:12 UTC at epicenter</dd><dt>Location</dt><dd>5.370&deg;S 131.253&deg;E</dd><dt>Depth</dt><dd>60.98 km (37.89 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r0aj",
+    "source": "rss"
+  },
+  {
+    "id": "8906868297",
+    "created_at": "2025-08-13 14:24:58",
+    "user": "official_usgs",
+    "text": "M 0.8 - 3 km ESE of Lake Henshaw, CA: <dl><dt>Time</dt><dd>2025-08-13 08:50:47 UTC</dd><dd>2025-08-13 08:50:47 UTC at epicenter</dd><dt>Location</dt><dd>33.232&deg;N 116.738&deg;W</dd><dt>Depth</dt><dd>10.66 km (6.62 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259744",
+    "source": "rss"
+  },
+  {
+    "id": "3859907020",
+    "created_at": "2025-08-13 14:35:00",
+    "user": "official_usgs",
+    "text": "M 1.2 - 6 km S of Mentone, CA: <dl><dt>Time</dt><dd>2025-08-13 09:01:56 UTC</dd><dd>2025-08-13 09:01:56 UTC at epicenter</dd><dt>Location</dt><dd>34.012&deg;N 117.127&deg;W</dd><dt>Depth</dt><dd>11.95 km (7.43 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259752",
+    "source": "rss"
+  },
+  {
+    "id": "2041933010",
+    "created_at": "2025-08-13 14:40:01",
+    "user": "official_usgs",
+    "text": "M 1.9 - 5 km SE of Ratliff City, Oklahoma: <dl><dt>Time</dt><dd>2025-08-13 09:06:10 UTC</dd><dd>2025-08-13 09:06:10 UTC at epicenter</dd><dt>Location</dt><dd>34.417&deg;N 97.471&deg;W</dd><dt>Depth</dt><dd>4.83 km (3.00 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025ptys",
+    "source": "rss"
+  },
+  {
+    "id": "2352684409",
+    "created_at": "2025-08-13 19:41:31",
+    "user": "official_usgs",
+    "text": "M 0.8 - 7 km NW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-13 14:04:05 UTC</dd><dd>2025-08-13 14:04:05 UTC at epicenter</dd><dt>Location</dt><dd>38.809&deg;N 122.822&deg;W</dd><dt>Depth</dt><dd>2.87 km (1.78 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222682",
+    "source": "rss"
+  },
+  {
+    "id": "9716243003",
+    "created_at": "2025-08-13 19:41:31",
+    "user": "official_usgs",
+    "text": "M 2.4 - 1 km S of Mentone, CA: <dl><dt>Time</dt><dd>2025-08-13 14:02:51 UTC</dd><dd>2025-08-13 14:02:51 UTC at epicenter</dd><dt>Location</dt><dd>34.060&deg;N 117.135&deg;W</dd><dt>Depth</dt><dd>11.40 km (7.08 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259936",
+    "source": "rss"
+  },
+  {
+    "id": "3718498713",
+    "created_at": "2025-08-13 19:41:31",
+    "user": "official_usgs",
+    "text": "M 0.7 - 7 km WNW of Pine Valley, CA: <dl><dt>Time</dt><dd>2025-08-13 13:50:06 UTC</dd><dd>2025-08-13 13:50:06 UTC at epicenter</dd><dt>Location</dt><dd>32.850&deg;N 116.599&deg;W</dd><dt>Depth</dt><dd>8.20 km (5.10 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259920",
+    "source": "rss"
+  },
+  {
+    "id": "920769456",
+    "created_at": "2025-08-13 19:41:31",
+    "user": "official_usgs",
+    "text": "M 0.4 - 7 km NW of The Geysers, CA: <dl><dt>Time</dt><dd>2025-08-13 13:24:40 UTC</dd><dd>2025-08-13 13:24:40 UTC at epicenter</dd><dt>Location</dt><dd>38.810&deg;N 122.819&deg;W</dd><dt>Depth</dt><dd>3.13 km (1.94 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75222677",
+    "source": "rss"
+  },
+  {
+    "id": "6937498894",
+    "created_at": "2025-08-13 19:41:31",
+    "user": "official_usgs",
+    "text": "M 2.5 - 69 km NW of Aleknagik, Alaska: <dl><dt>Time</dt><dd>2025-08-13 13:23:03 UTC</dd><dd>2025-08-13 13:23:03 UTC at epicenter</dd><dt>Location</dt><dd>59.789&deg;N 159.306&deg;W</dd><dt>Depth</dt><dd>98.80 km (61.39 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025acbsnoh",
+    "source": "rss"
+  },
+  {
+    "id": "3966130903",
+    "created_at": "2025-08-13 20:01:42",
+    "user": "official_usgs",
+    "text": "M 1.0 - 5 km WSW of Anza, CA: <dl><dt>Time</dt><dd>2025-08-13 14:26:26 UTC</dd><dd>2025-08-13 14:26:26 UTC at epicenter</dd><dt>Location</dt><dd>33.535&deg;N 116.718&deg;W</dd><dt>Depth</dt><dd>5.38 km (3.34 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41259968",
+    "source": "rss"
+  },
+  {
+    "id": "7576902455",
+    "created_at": "2025-08-13 20:06:44",
+    "user": "official_usgs",
+    "text": "M 1.1 - 14 km SSE of Stanton, Texas: <dl><dt>Time</dt><dd>2025-08-13 14:18:51 UTC</dd><dd>2025-08-13 14:18:51 UTC at epicenter</dd><dt>Location</dt><dd>32.017&deg;N 101.716&deg;W</dd><dt>Depth</dt><dd>8.62 km (5.36 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025pwhdgf",
+    "source": "rss"
+  },
+  {
+    "id": "1343610359",
+    "created_at": "2025-08-13 20:17:04",
+    "user": "official_usgs",
+    "text": "M 1.6 - 60 km N of Karluk, Alaska: <dl><dt>Time</dt><dd>2025-08-13 14:44:50 UTC</dd><dd>2025-08-13 14:44:50 UTC at epicenter</dd><dt>Location</dt><dd>58.108&deg;N 154.525&deg;W</dd><dt>Depth</dt><dd>12.40 km (7.71 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025accioz6",
+    "source": "rss"
+  },
+  {
+    "id": "2494560466",
+    "created_at": "2025-08-13 20:17:04",
+    "user": "official_usgs",
+    "text": "M 1.2 - 41 km NW of Beluga, Alaska: <dl><dt>Time</dt><dd>2025-08-13 14:42:57 UTC</dd><dd>2025-08-13 14:42:57 UTC at epicenter</dd><dt>Location</dt><dd>61.438&deg;N 151.534&deg;W</dd><dt>Depth</dt><dd>65.30 km (40.58 mi)</dd></dl>...",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025accia4e",
+    "source": "rss"
+  }
+]
